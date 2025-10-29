@@ -1,7 +1,6 @@
 # Backend
 backend/CrmApi/bin/
 backend/CrmApi/obj/
-backend/CrmApi/Migrations/
 
 # Frontend
 frontend/crm-app/node_modules/
