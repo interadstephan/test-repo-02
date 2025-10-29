@@ -1,0 +1,20 @@
+# Backend
+backend/CrmApi/bin/
+backend/CrmApi/obj/
+backend/CrmApi/Migrations/
+
+# Frontend
+frontend/crm-app/node_modules/
+frontend/crm-app/dist/
+frontend/crm-app/.angular/
+frontend/crm-app/.vscode/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
